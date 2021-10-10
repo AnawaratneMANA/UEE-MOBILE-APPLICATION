@@ -29,11 +29,6 @@
         <activity android:name=".settings.Notification_Settings" />
         <activity android:name=".settings.CustomButtonSettings.CustomButtonSettings2" />
         <activity android:name=".splash.OpeningSplashScreen">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity android:name=".notification.NotificationLayout" />
         <activity android:name=".settings.CustomButtonSettings.CustomButtonSettings" />

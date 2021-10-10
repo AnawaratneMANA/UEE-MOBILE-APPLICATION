@@ -13,6 +13,7 @@ import android.view.MenuItem;
 
 import com.example.uee_recipe_management.application.NavgationController;
 import com.example.uee_recipe_management.application.R;
+import com.example.uee_recipe_management.application.bookmark.BookmarkFragmentNew;
 import com.example.uee_recipe_management.application.bookmark.ItemTestingFragment;
 import com.example.uee_recipe_management.application.userControlMenu.Fragments.*;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
